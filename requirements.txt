@@ -20,8 +20,8 @@ black>=22.0.0
 flake8>=4.0.0
 isort>=5.10.0
 
-# Optional: Deep learning (uncomment if needed)
-# tensorflow>=2.8.0
+# Deep learning
+tensorflow>=2.8.0
 # torch>=1.11.0
 
 # Optional: Additional ML libraries
